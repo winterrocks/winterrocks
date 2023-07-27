@@ -10,7 +10,7 @@ This is my intitial personal readme, usint the ideas from the template.
 - Contributions for an organization
 - InnerSourcing, e.g. from [ISC](https://innersourcecommons.org/)
 - SCA tooling
-- OpenChain and ISO 5230
+- [OpenChain](https://www.openchainproject.org/) and ISO 5230
 
 ## 👯 I’m looking to collaborate on
 - OSS Licensing
