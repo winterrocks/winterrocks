@@ -8,7 +8,7 @@ This is my intitial personal readme, usint the ideas from the template.
 - GH
   - EMU, etc.
 - Contributions for an organization
-- InnerSourcing
+- InnerSourcing [ISC](https://innersourcecommons.org/)
 - SCA tooling
 - OpenChain and ISO 5230
 
@@ -17,7 +17,7 @@ This is my intitial personal readme, usint the ideas from the template.
 - SW Strategies and how OSS plays role in it
 
 ## 🤔 I’m looking for help with
-- ORT
+- [ORT](https://github.com/oss-review-toolkit/ort)
 
 ## 💬 Ask me about
 - OSS Licensing
