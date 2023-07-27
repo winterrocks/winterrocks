@@ -8,7 +8,7 @@ This is my intitial personal readme, usint the ideas from the template.
 - GH
   - EMU, etc.
 - Contributions for an organization
-- InnerSourcing [ISC](https://innersourcecommons.org/)
+- InnerSourcing, e.g. from [ISC](https://innersourcecommons.org/)
 - SCA tooling
 - OpenChain and ISO 5230
 
