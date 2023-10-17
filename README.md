@@ -34,7 +34,7 @@ This is my intitial personal readme, usint the ideas from the template.
 ## ⚡ Fun fact:
 - Obviously I'm not a great snowboarder, but I still do it. Injuries so far:
   - Broken ribs many times
-  - Dislocated shoulder x 4 and shoulder now operated x 2
+  - Dislocated shoulder x 4 and shoulder has been operated x 2 now: 1st operation was Bankart repair and 2nd operation Latarjet bone block
 
 
 <!--
