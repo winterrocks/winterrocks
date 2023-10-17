@@ -11,6 +11,8 @@ This is my intitial personal readme, usint the ideas from the template.
 - InnerSourcing, e.g. from [ISC](https://innersourcecommons.org/)
 - SCA tooling
 - [OpenChain](https://www.openchainproject.org/) and ISO 5230
+- SBOMs
+  - SPDX, CycloneDX
 
 ## 👯 I’m looking to collaborate on
 - OSS Licensing
@@ -24,6 +26,7 @@ This is my intitial personal readme, usint the ideas from the template.
 
 ## 📫 How to reach me:
 - Email most likely the best way
+- I'm also happy to get linked in LinkedIn, but please send me a note why we should be linked
 
 ## 😄 Pronouns:
 - hän/he/him
