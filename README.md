@@ -30,6 +30,9 @@ This is my intitial personal readme, usint the ideas from the template.
 
 ## 💬 Ask me about
 - OSS Licensing
+- OSPOs
+- Open Source Due Diligence
+  - Experience especially from the buyer side, but knowing the buyer side is useful for seller side too
 
 ## 📫 How to reach me:
 - Email most likely the best way
