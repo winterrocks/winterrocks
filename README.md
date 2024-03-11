@@ -32,7 +32,13 @@ This is my intitial personal readme, usint the ideas from the template.
 - OSS Licensing
 - OSPOs
 - Open Source Due Diligence
-  - Experience especially from the buyer side, but knowing the buyer side is useful for seller side too
+  - Experience especially from the buyer side, but knowing the buyer side is useful for the seller side too
+
+## Webinars and conference talks
+- [FLIGHT Europe Conference 2021: Remediating Open Source Software Issues](https://events.bizzabo.com/FLIGHTEU2021/agenda/session/477512)
+- [Synopsys webinar guest speaker (Jun 23, 2021): Remediating Open Source Software Issues in M&A](https://www.brighttalk.com/webcast/13983/486930/remediating-open-source-software-issues-in-m-a)
+- [Open Compliance Summit 2021: Ideas for Remediating Open Source Issues](https://ocs2021.sched.com/event/pcto)
+- [Finnish IT Law Association podcast guest speaker: Avoin lähdekoodi, Open Source code and licenses, etc. (in Finnish)](https://open.spotify.com/episode/16eN34dUNy9fxZEvcFiCmb)
 
 ## 📫 How to reach me:
 - Email most likely the best way
