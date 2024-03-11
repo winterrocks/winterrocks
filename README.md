@@ -37,6 +37,7 @@ This is my intitial personal readme, usint the ideas from the template.
 ## 📫 How to reach me:
 - Email most likely the best way
 - I'm also happy to get linked in LinkedIn, but please send me a note why we should be linked
+  - https://www.linkedin.com/in/jarikoivisto/
 
 ## 😄 Pronouns:
 - hän/he/him
