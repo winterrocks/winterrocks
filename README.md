@@ -5,6 +5,13 @@ This is my intitial personal readme, usint the ideas from the template.
 - OSPO stuff
 
 ## 🌱 I’m currently learning
+- Software Architecture
+  - Microservices
+  - Domain-Driven Design (DDD)
+  - Cloud Architecture
+  - Enterprise Architecture
+  - Microservices security
+  - Breaking a Monolith into Microservices
 - GH
   - EMU, etc.
 - Contributions for an organization
