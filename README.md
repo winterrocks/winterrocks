@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is my intitial personal readme, usint the ideas from the template. 
+This is my initial personal readme, using the ideas from the template. 
 
 ## 🔭 I’m currently working on
 - OSPO stuff
@@ -23,7 +23,7 @@ This is my intitial personal readme, usint the ideas from the template.
 
 ## 👯 I’m looking to collaborate on
 - OSS Licensing
-- SW Strategies and how OSS plays role in it
+- SW Strategies and how OSS plays a role in it
 
 ## 🤔 I’m looking for help with
 - [ORT](https://github.com/oss-review-toolkit/ort)
@@ -39,17 +39,18 @@ This is my intitial personal readme, usint the ideas from the template.
 - [Synopsys webinar guest speaker (Jun 23, 2021): Remediating Open Source Software Issues in M&A](https://www.brighttalk.com/webcast/13983/486930/remediating-open-source-software-issues-in-m-a)
 - [Open Compliance Summit 2021: Ideas for Remediating Open Source Issues](https://ocs2021.sched.com/event/pcto)
 - [Finnish IT Law Association podcast guest speaker: Avoin lähdekoodi, Open Source code and licenses, etc. (in Finnish)](https://open.spotify.com/episode/16eN34dUNy9fxZEvcFiCmb)
+- [Synopsys webinar quest speaker (Mar 13, 2024): Open Source Diligence: From Risk Assessment to Post-Close Integration](https://www.brighttalk.com/webcast/13983/605646)
 
 ## 📫 How to reach me:
-- Email most likely the best way
-- I'm also happy to get linked in LinkedIn, but please send me a note why we should be linked
+- Email is most likely the best way
+- I'm also happy to get linked on LinkedIn, but please send me a note why we should be linked
   - https://www.linkedin.com/in/jarikoivisto/
 
 ## 😄 Pronouns:
 - hän/he/him
 
 ## ⚡ Fun fact:
-- Obviously I'm not a great snowboarder, but I still do it. Injuries so far:
+- Obviously, I'm not a great snowboarder, but I still do it. Injuries so far:
   - Broken ribs many times
   - Dislocated shoulder x 4 and shoulder has been operated x 2 now:
     - the 1st operation was Bankart repair and the 2nd operation Latarjet bone block
