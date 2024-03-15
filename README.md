@@ -39,7 +39,7 @@ This is my initial personal readme, using the ideas from the template.
 - [Synopsys webinar guest speaker (Jun 23, 2021): Remediating Open Source Software Issues in M&A](https://www.brighttalk.com/webcast/13983/486930/remediating-open-source-software-issues-in-m-a)
 - [Open Compliance Summit 2021: Ideas for Remediating Open Source Issues](https://ocs2021.sched.com/event/pcto)
 - [Finnish IT Law Association podcast guest speaker: Avoin lähdekoodi, Open Source code and licenses, etc. (in Finnish)](https://open.spotify.com/episode/16eN34dUNy9fxZEvcFiCmb)
-- [Synopsys webinar quest speaker (Mar 13, 2024): Open Source Diligence: From Risk Assessment to Post-Close Integration](https://www.brighttalk.com/webcast/13983/605646)
+- [Synopsys webinar guest speaker (Mar 13, 2024): Open Source Diligence: From Risk Assessment to Post-Close Integration](https://www.brighttalk.com/webcast/13983/605646)
 
 ## 📫 How to reach me:
 - Email is most likely the best way
