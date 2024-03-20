@@ -36,10 +36,14 @@ This is my initial personal readme, using the ideas from the template.
 
 ## Webinars and conference talks
 - [FLIGHT Europe Conference 2021: Remediating Open Source Software Issues](https://events.bizzabo.com/FLIGHTEU2021/agenda/session/477512)
+  - [Slides](FLIGHT-Conference-Open-Source-Issues-Remediation-Jari-Koivisto-2021-04-20.pdf)
 - [Synopsys webinar guest speaker (Jun 23, 2021): Remediating Open Source Software Issues in M&A](https://www.brighttalk.com/webcast/13983/486930/remediating-open-source-software-issues-in-m-a)
+  - [Slides](Remediating-OSS-License-Issues-in-MA-Jari-Koivisto-2021-06-23.pdf) 
 - [Open Compliance Summit 2021: Ideas for Remediating Open Source Issues](https://ocs2021.sched.com/event/pcto)
+  - [Slides](Ideas-for-Remediating-Open-Source-Issues-Jari-Koivisto-2021-12-16.pdf) 
 - [Finnish IT Law Association podcast guest speaker: Avoin lähdekoodi, Open Source code and licenses, etc. (in Finnish)](https://open.spotify.com/episode/16eN34dUNy9fxZEvcFiCmb)
 - [Synopsys webinar guest speaker (Mar 13, 2024): Open Source Diligence: From Risk Assessment to Post-Close Integration](https://www.brighttalk.com/webcast/13983/605646)
+  - [Slides](Synopsys-webinar-Open-Source-DD-for-MA-2024-03-13.pdf)
 
 ## 📫 How to reach me:
 - Email is most likely the best way
