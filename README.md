@@ -45,6 +45,9 @@ This is my initial personal readme, using the ideas from the template.
 - [Synopsys webinar guest speaker (Mar 13, 2024): Open Source Diligence: From Risk Assessment to Post-Close Integration](https://www.brighttalk.com/webcast/13983/605646)
   - [Slides](Attachments/Synopsys-webinar-Open-Source-DD-for-MA-2024-03-13.pdf)
 
+If borrowing content from the slides, an attribution would be nice. 
+
+
 ## 📫 How to reach me:
 - Email is most likely the best way
 - I'm also happy to get linked on LinkedIn, but please send me a note why we should be linked
