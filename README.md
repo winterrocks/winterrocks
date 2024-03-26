@@ -45,7 +45,7 @@ This is my initial personal readme, using the ideas from the template.
 - [Synopsys webinar guest speaker (Mar 13, 2024): Open Source Diligence: From Risk Assessment to Post-Close Integration](https://www.brighttalk.com/webcast/13983/605646)
   - [Slides](Attachments/Synopsys-webinar-Open-Source-DD-for-MA-2024-03-13.pdf)
 
-If borrowing content from the slides, an attribution would be nice. 
+If borrowing content from the slides, an attribution would be nice, but not mandatory.
 
 
 ## 📫 How to reach me:
@@ -57,10 +57,10 @@ If borrowing content from the slides, an attribution would be nice.
 - hän/he/him
 
 ## ⚡ Fun fact:
-- Obviously, I'm not a great snowboarder, but I still do it. Injuries so far:
+- Obviously, I'm not a great :snowboarder:, but I still do it. Injuries so far:
   - Broken ribs many times
   - Dislocated shoulder x 4 and shoulder has been operated x 2 now:
-    - the 1st operation was Bankart repair and the 2nd operation Latarjet bone block
+    - the 1st operation was Bankart repair and the 2nd operation was Latarjet bone block
 
 
 <!--
