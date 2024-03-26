@@ -62,6 +62,21 @@ If borrowing content from the slides, an attribution would be nice, but not mand
   - Dislocated shoulder x 4 and shoulder has been operated x 2 now:
     - the 1st operation was Bankart repair and the 2nd operation was Latarjet bone block
 
+## :page_facing_up: Acronyms used above
+| Acronym | Spell out                      |
+--------------------------------------------
+| DDD     | Domain-Driven Design           |
+| EMU     | Enterprise Managed Users       |
+| GH      | GitHub                         |
+| M&A     | Mergers & Acquisitions         |
+| OSPO    | Open Source Program Office     |
+| OSS     | Open Source Software           |
+| SBOM    | Software Bill of Materials     |
+| SCA     | Software Composition Analysis  |
+| SPDX    | Software Package Data Exchange |
+| SW      | Software                       |
+
+
 
 <!--
 **winterrocks/winterrocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
