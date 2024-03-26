@@ -57,7 +57,7 @@ If borrowing content from the slides, an attribution would be nice, but not mand
 - hän/he/him
 
 ## ⚡ Fun fact:
-- Obviously, I'm not a great :snowboarder:, but I still do it. Injuries so far:
+- Obviously, I'm not a great snowboarder :snowboarder:, but I still do it. Injuries so far:
   - Broken ribs many times
   - Dislocated shoulder x 4 and shoulder has been operated x 2 now:
     - the 1st operation was Bankart repair and the 2nd operation was Latarjet bone block
