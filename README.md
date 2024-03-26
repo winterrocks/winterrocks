@@ -64,7 +64,7 @@ If borrowing content from the slides, an attribution would be nice, but not mand
 
 ## :page_facing_up: Acronyms used above
 | Acronym | Spell out                      |
-|---------|--------------------------------|
+|:--------|:-------------------------------|
 | DDD     | Domain-Driven Design           |
 | EMU     | Enterprise Managed Users       |
 | GH      | GitHub                         |
