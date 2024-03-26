@@ -12,7 +12,7 @@ This is my initial personal readme, using the ideas from the template.
   - Enterprise Architecture
   - Microservices security
   - Breaking a Monolith into Microservices
-- GH
+- :octocat: GH
   - EMU, etc.
 - Contributions for an organization
 - InnerSourcing, e.g. from [ISC](https://innersourcecommons.org/)
