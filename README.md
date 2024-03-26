@@ -12,14 +12,14 @@ This is my initial personal readme, using the ideas from the template.
   - Enterprise Architecture
   - Microservices security
   - Breaking a Monolith into Microservices
-- :octocat: GH
+- :octocat: [GH](https://github.com/)
   - EMU, etc.
 - Contributions for an organization
 - InnerSourcing, e.g. from [ISC](https://innersourcecommons.org/)
 - SCA tooling
 - [OpenChain](https://www.openchainproject.org/) and ISO 5230
 - SBOMs
-  - SPDX, CycloneDX
+  - [SPDX](https://spdx.dev/), [CycloneDX](https://cyclonedx.org/)
 
 ## 👯 I’m looking to collaborate on
 - OSS Licensing
