@@ -34,7 +34,7 @@ This is my initial personal readme, using the ideas from the template.
 - Open Source Due Diligence
   - Experience especially from the buyer side, but knowing the buyer side is useful for the seller side too
 
-## Webinars and conference talks
+## ✨ Webinars and conference talks
 - [FLIGHT Europe Conference 2021: Remediating Open Source Software Issues](https://events.bizzabo.com/FLIGHTEU2021/agenda/session/477512)
   - [Slides](Attachments/FLIGHT-Conference-Open-Source-Issues-Remediation-Jari-Koivisto-2021-04-20.pdf)
 - [Synopsys webinar guest speaker (Jun 23, 2021): Remediating Open Source Software Issues in M&A](https://www.brighttalk.com/webcast/13983/486930/remediating-open-source-software-issues-in-m-a)
