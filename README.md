@@ -47,6 +47,16 @@ This is my initial personal readme, using the ideas from the template.
 
 If borrowing content from the slides, an attribution would be nice, but not mandatory.
 
+## 📂 Posts about Open Source License issues remediation ideas
+Below are a bit older but still valid posts about ideas on how to remediate Open Source Licensing issues. The posts were originally done on LinkedIn, but they are now buried under many other posts, so difficult to find. 
+- [CC-BY-SA snippets remediation ideas](oss_licensing_posts/cc_by_sa_snippet_remediation_ideas.md)
+- [Embedded GPL (and other copyleft) component remediation ideas](oss_licensing_posts/embedded_gpl_remediation_ideas.md)
+- [GPL licensed components remediation ideas](oss_licensing_posts/gpl_remediation_ideas.md)
+- [LGPL licensed components remediation ideas](oss_licensing_posts/lgpl_issues_remediation_ideas.md)
+- [No license component remediation ideas](oss_licensing_posts/no_license_remediation_ideas.md)
+
+As a bonus, there was also a post about Linux Kernel Loadable Modules (KLM) a.k.a. Loadable Kernel Modules (LKM):
+- [Are KLMs GPL or not?](oss_licensing_posts/klm_gpl_or_not.md)
 
 ## 📫 How to reach me:
 - Email is most likely the best way
