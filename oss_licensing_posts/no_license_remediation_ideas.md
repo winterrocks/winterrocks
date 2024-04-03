@@ -8,9 +8,9 @@ Typically one finds these components or snippets without any license from GitHub
 
 Some remediation options to consider:
 1. Contact the copyright owner and ask if she/he can add a license. Even better if the license added is a permissive one, e.g. MIT or Apache license.
-     - Often times the idea of the code owner was that the code is under some permissive license or is in public domain.
-1. Contact the copyright owner and ask if it is o.k. to use the code in commercial product. Possibly ask if you can purchase a commercial license.
-    - Get this permission in written (email normally o.k.)
+     - Often times the idea of the code owner was that the code is under some permissive license or is in the public domain.
+1. Contact the copyright owner and ask if it is o.k. to use the code in a commercial product. Possibly ask if you can purchase a commercial license.
+    - Get this permission in writing (email normally o.k.)
 1. Remove and rewrite
 
 Disclaimer #1: I am not a lawyer and this is just an example. Seek legal advice if in doubt!
