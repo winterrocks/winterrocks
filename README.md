@@ -72,7 +72,7 @@ I also encourage people to check the original LinkedIn posts because there are s
 - Obviously, I'm not a great snowboarder :snowboarder:, but I still do it. Injuries so far:
   - Broken ribs many times
   - Dislocated shoulder x 4 and shoulder has been operated x 2 now:
-    - the 1st operation was Bankart repair and the 2nd operation was Latarjet bone block
+    - The 1st operation was [Bankart repair](https://en.wikipedia.org/wiki/Bankart_repair) and the 2nd operation was [Latarjet bone block](https://en.wikipedia.org/wiki/Latarjet_procedure)
 
 ## :page_facing_up: Acronyms used above
 | Acronym | Spell out                      |
