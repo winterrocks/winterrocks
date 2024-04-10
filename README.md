@@ -58,7 +58,7 @@ Below are a bit older but still valid posts about ideas on how to remediate Open
 As a bonus, there was also a post about Linux Kernel Loadable Modules (KLM) a.k.a. Loadable Kernel Modules (LKM):
 - [Are KLMs GPL or not?](oss_licensing_posts/klm_gpl_or_not.md)
 
-I also encourage people to check the original LinkedIn posts because there are some very good comments from some of the industry leaders. 
+👍 I also encourage people to check the original LinkedIn posts because there are some very good comments from some of the industry leaders. 
 
 ## 📫 How to reach me:
 - Email is most likely the best way
