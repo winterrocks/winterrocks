@@ -45,6 +45,7 @@ This is my initial personal readme, using the ideas from the template.
 - [Synopsys webinar guest speaker (Mar 13, 2024): Open Source Diligence: From Risk Assessment to Post-Close Integration](https://www.brighttalk.com/webcast/13983/605646)
   - [Slides](Attachments/Synopsys-webinar-Open-Source-DD-for-MA-2024-03-13.pdf)
 - [OpenChain Project webinar (Jun 17, 2024)](https://openchainproject.org/news/2024/06/23/openchain-webinar-open-source-due-diligence-for-ma)
+  - [Slides](Attachments/OpenChain%20-%20Open%20Source%20DD%20for%20M%5E0A%20-%202024-06-17.pdf)
 
 If borrowing content from the slides, an attribution would be nice, but not mandatory.
 
