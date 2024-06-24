@@ -44,6 +44,7 @@ This is my initial personal readme, using the ideas from the template.
 - [Finnish IT Law Association podcast guest speaker: Avoin lähdekoodi, Open Source code and licenses, etc. (in Finnish)](https://open.spotify.com/episode/16eN34dUNy9fxZEvcFiCmb)
 - [Synopsys webinar guest speaker (Mar 13, 2024): Open Source Diligence: From Risk Assessment to Post-Close Integration](https://www.brighttalk.com/webcast/13983/605646)
   - [Slides](Attachments/Synopsys-webinar-Open-Source-DD-for-MA-2024-03-13.pdf)
+- [OpenChain Project webinar (Jun 17, 2024)](https://openchainproject.org/news/2024/06/23/openchain-webinar-open-source-due-diligence-for-ma)
 
 If borrowing content from the slides, an attribution would be nice, but not mandatory.
 
