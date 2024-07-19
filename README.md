@@ -77,19 +77,23 @@ As a bonus, there was also a post about Linux Kernel Loadable Modules (KLM) a.k.
     - The 1<sup>st</sup> operation was [Bankart repair](https://en.wikipedia.org/wiki/Bankart_repair) and the 2<sup>nd</sup> operation was [Latarjet bone block](https://en.wikipedia.org/wiki/Latarjet_procedure)
 
 ## :page_facing_up: Acronyms used above
-| Acronym | Spell out                      |
-|:--------|:-------------------------------|
-| DDD     | Domain-Driven Design           |
-| EMU     | Enterprise Managed Users       |
-| GH      | GitHub                         |
-| ISC     | InnerSource Commons            |
-| M&A     | Mergers & Acquisitions         |
-| OSPO    | Open Source Program Office     |
-| OSS     | Open Source Software           |
-| SBOM    | Software Bill of Materials     |
-| SCA     | Software Composition Analysis  |
-| SPDX    | Software Package Data Exchange |
-| SW      | Software                       |
+| Acronym  | Spell out                                |
+|:---------|:-----------------------------------------|
+| CC-BY-SA | Creative Commons Attribution Share Alike |
+| DDD      | Domain-Driven Design                     |
+| EMU      | Enterprise Managed Users                 |
+| GH       | GitHub                                   |
+| GPL      | General Public License                   |
+| ISC      | InnerSource Commons                      |
+| KLM      | Kernel Loadable Module                   |
+| LKM      | Loadable Kernel Module                   |
+| M&A      | Mergers & Acquisitions                   |
+| OSPO     | Open Source Program Office               |
+| OSS      | Open Source Software                     |
+| SBOM     | Software Bill of Materials               |
+| SCA      | Software Composition Analysis            |
+| SPDX     | Software Package Data Exchange           |
+| SW       | Software                                 |
 
 
 
