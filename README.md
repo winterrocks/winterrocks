@@ -75,6 +75,7 @@ As a bonus, there was also a post about Linux Kernel Loadable Modules (KLM) a.k.
   - Broken ribs many times
   - Dislocated shoulder x 4 and shoulder has been operated x 2 now:
     - The 1<sup>st</sup> operation was [Bankart repair](https://en.wikipedia.org/wiki/Bankart_repair) and the 2<sup>nd</sup> operation was [Latarjet bone block](https://en.wikipedia.org/wiki/Latarjet_procedure)
+- The music I listen tends to be on the harder side of the spectrum: (melodic) death metal, thrash metal, doom metal, black metal, ... I guess that you got the point 😄
 
 ## :page_facing_up: Acronyms used above
 | Acronym  | Spell out                                |
