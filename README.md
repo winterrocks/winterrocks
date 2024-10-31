@@ -46,7 +46,8 @@ This is my initial personal readme, using the ideas from the template.
   - [Slides](Attachments/Synopsys-webinar-Open-Source-DD-for-MA-2024-03-13.pdf)
 - [OpenChain Project webinar (Jun 17, 2024): Open Source Due Diligence for M&A](https://openchainproject.org/news/2024/06/23/openchain-webinar-open-source-due-diligence-for-ma)
   - [Slides](Attachments/OpenChain%20-%20Open%20Source%20DD%20for%20M%5E0A%20-%202024-06-17.pdf)
-- Upcoming [Open Compliance Summit](https://events.linuxfoundation.org/open-compliance-summit/) in Tokyo, Japan 30-31, October 2024
+- [Open Compliance Summit](https://events.linuxfoundation.org/open-compliance-summit/) in Tokyo, Japan 30-31, October 2024
+  - [Open Source Diligence: From Risk Assement to Post-Close Integration](https://sched.co/1j5Bs) 
 
 If borrowing content from the slides, an attribution would be nice, but not mandatory.
 
