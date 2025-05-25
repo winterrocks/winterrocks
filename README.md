@@ -2,7 +2,7 @@
 This is my initial personal readme, using the ideas from the template. 
 
 ## 🔭 I’m currently working on
-- OSPO stuff
+- OSPO stuff at Analog Devices
 
 ## 🌱 I’m currently learning
 - Software Architecture
