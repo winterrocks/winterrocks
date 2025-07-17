@@ -50,6 +50,8 @@ This is my initial personal readme, using the ideas from the template.
   - [Open Source Diligence: From Risk Assement to Post-Close Integration](https://sched.co/1j5Bs), [Slides](Attachments/Open_Compliance_Summit-Open_Source_DD_for_M&A-2024-10-31.pdf)
 - Presenting as an external expert at SCANOSS in-house conference/workshop, Porto, Portugal, 25 November 2024
   - [Slides](Attachments/SCANOSS%20Workshop%20-%20Open%20Source%20DD%20for%20M%26A%20-%202024-11-25.pdf)
+- [Dialogi podcast: OSS, Open Source, Avoin Lähdekoodi](https://open.spotify.com/episode/7xFHNTnM9cyrnSKEUxmWd1?si=r8cRsxUiR3W-7ap5Nuh_SQ), published 17 July 2025
+  - Together with Daniel Stranius, CEO, [Dottir Law](https://www.dottirlaw.com/) and Otto Lindholm, Tech & Data attorney, Partner at [Dottir Law](https://www.dottirlaw.com/)
 
 If borrowing content from the slides, an attribution would be nice, but not mandatory.
 
